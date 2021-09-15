@@ -221,8 +221,8 @@
                   <div class="col-xxl-5 col-xl-6 col-lg-6 col-md-9">
                      <div class="about__wrapper mb-10">
                         <div class="section__title-wrapper mb-25">
-                           <h2 class="section__title">Get the Perfect Solution for Your Web.</h2>
-                           <p>Starkers pardon you knees up is Elizabeth geeza Why, quain standard  guvnor gosh cras brilliant.</p>
+                         <h2 class="section__title">Kullanıcılarımızı anlayıp, araştırıp uygulamamızı ona göre şekillendiriyoruz.</h2>
+                           <p>Kullanıcılarımızın istedikleri bizim çok önemli, bu yüzden arayüze ve kod yapısına çok önem veriyoruz. En basit ama bir o kadarda efektif uygulamalar yaratıyoruz.</p>
                         </div>
                         <ul>
                            <li>Intergate With Popular Softwares item</li>
@@ -230,6 +230,9 @@
                         </ul>
                         <a href="contact.html" class="w-btn w-btn-3 w-btn-1">Get Started</a>
                      </div>
+
+
+                   
                   </div>
                   <div class="col-xxl-6 offset-xxl-1 col-xl-6 col-lg-6 col-md-10 order-first order-lg-last">
                      <div class="about__thumb-wrapper p-relative ml-40 fix text-end">
