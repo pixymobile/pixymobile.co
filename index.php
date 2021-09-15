@@ -243,6 +243,41 @@
                </div>
             </div>
          </section>
+
+         <section class="about__area pb-160 pt-80 p-relative">
+            <div class="about__shape">
+               <img class="about-plus" src="assets/img/icon/about/home-1/plus.png" alt="">
+               <img class="about-triangle-2" src="assets/img/icon/about/home-1/triangle-2.png" alt="">
+               <img class="about-circle-4" src="assets/img/icon/about/home-1/circle-4.png" alt="">
+               <img class="about-circle-5" src="assets/img/icon/about/home-1/circle-5.png" alt="">
+            </div>
+            <div class="container">
+               <div class="row align-items-center">
+                  <div class="col-xxl-6 col-xl-6 col-lg-6">
+                     <div class="about__thumb-wrapper p-relative ml--30 fix mr-70">
+                        <img src="assets/img/about/home-1/about-bg-2.png" alt="">
+                        <div class="about__thumb about__thumb-2 p-absolute wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                           <img class="about-big bounceInUp wow" data-wow-delay=".5s" src="assets/img/about/home-1/about-2.png" alt="" style="visibility: visible; animation-delay: 0.5s; animation-name: bounceInUp;">
+                           <img class="about-sm about-sm-2" src="assets/img/about/home-1/about-2-1.png" alt="">
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-9">
+                     <div class="about__wrapper about__wrapper-2 ml-60 mb-30">
+                        <div class="section__title-wrapper mb-25">
+                           <h2 class="section__title">Awesome Prototyping Tool for UI/UX.</h2>
+                           <p>Starkers pardon you knees up is Elizabeth geeza Why, quain standard  guvnor gosh cras brilliant.</p>
+                        </div>
+                        <ul>
+                           <li>Intergate With Popular Softwares item</li>
+                           <li>Instantly Create Your Crowdfunding Platform</li>
+                        </ul>
+                        <a href="contact.html" class="w-btn w-btn-3 w-btn-1">Get Started</a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
          <!-- about area end -->
 
          <!-- app downloads area start -->
