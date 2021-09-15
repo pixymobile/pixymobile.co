@@ -32,7 +32,7 @@ It provide services in the category of tools to users by making multi-purpose ap
                               <ul>
                                  <li><a href="/">Anasayfa</a></li>
                                  <li><a href="#">Hakkımızda</a></li>
-                                 <li><a href="#">Kariyer</a></li>
+                                 <li><a href="career">Kariyer</a></li>
                                  <li><a href="/contact.php">İletişim</a></li>
                               </ul>
                            </div>
@@ -46,7 +46,8 @@ It provide services in the category of tools to users by making multi-purpose ap
                         </div>
                         <div class="footer__widget-content">
                            <div class="footer__link">
-                             <p>Tevfik İleri Mh. Ağrı Cd. No:4 06145 Pursaklar/Ankara</p>
+                             <p><i class="fas fa-phone-alt" style="margin-right: 15px;"></i>0 531 886 26 04</p>
+                              <p><i class="fas fa-map-marker-alt" style="margin-right: 15px;"></i>Tevfik İleri Mh. Ağrı Cd. No:4 06145 Pursaklar/Ankara</p>
                            </div>
                         </div>
                      </div>
