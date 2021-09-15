@@ -16,72 +16,51 @@
                            </div>
                         </div>
                         <div class="footer__widget-content">
-                           <p>Ever since we started using  we’ve , and more.</p>
+                           <p>Pixy create powerfull apps for all world. 
+It provide services in the category of tools to users by making multi-purpose applications.</p>
                         </div>
                      </div>
                   </div>
-                  <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-                     <div class="footer__widget mb-50 footer__pl-70">
-                        <div class="footer__widget-title mb-25">
-                           <h3>Hakkımızda</h3>
-                        </div>
-                        <div class="footer__widget-content">
-                           <div class="footer__link">
-                              <ul>
-                                 <li><a href="#">Biz Kimiz?</a></li>
-                                 <li><a href="#">Projelerimiz</a></li>
-                                 <li><a href="#">Cookies</a></li>
-                                 <li><a href="#">Integrations</a></li>
-                              </ul>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xxl-3 col-xl-2 col-lg-2 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay=".7s" style="visibility: visible; animation-delay: 0.7s; animation-name: fadeInUp;">
+                  
+                  <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay=".7s" style="visibility: visible; animation-delay: 0.7s; animation-name: fadeInUp;">
                      <div class="footer__widget mb-50 footer__pl-90">
                         <div class="footer__widget-title mb-25">
-                           <h3>Customer</h3>
+                           <h3>Kurumsal</h3>
                         </div>
                         <div class="footer__widget-content">
                            <div class="footer__link">
                               <ul>
                                  <li><a href="/">Anasayfa</a></li>
                                  <li><a href="#">Hakkımızda</a></li>
-                                 <li><a href="#">Pricing</a></li>
-                                 <li><a href="#">İletişim</a></li>
+                                 <li><a href="#">Kariyer</a></li>
+                                 <li><a href="/contact.php">İletişim</a></li>
                               </ul>
                            </div>
                         </div>
                      </div>
                   </div>
-                  <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay=".9s" style="visibility: visible; animation-delay: 0.9s; animation-name: fadeInUp;">
+                  <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay=".9s" style="visibility: visible; animation-delay: 0.9s; animation-name: fadeInUp;">
                      <div class="footer__widget mb-50">
                         <div class="footer__widget-title mb-25">
-                           <h3>Product</h3>
+                           <h3>İletişim</h3>
                         </div>
                         <div class="footer__widget-content">
                            <div class="footer__link">
-                              <ul>
-                                 <li><a href="#">Getting Started</a></li>
-                                 <li><a href="#">Style Guide</a></li>
-                                 <li><a href="#">Licences</a></li>
-                                 <li><a href="#">Changelog</a></li>
-                              </ul>
+                             <p>Tevfik İleri Mh. Ağrı Cd. No:4 06145 Pursaklar/Ankara</p>
                            </div>
                         </div>
                      </div>
                   </div>
-                  <div class="col-xxl-2 col-xl-3 col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">
-                     <div class="footer__widget mb-50 float-md-end fix">
+                  <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">
+                     <div class="footer__widget mb-50 fix">
                         <div class="footer__widget-title mb-25">
                            <h3>Bizi Takip Edin</h3>
                         </div>
                         <div class="footer__widget-content">
                            <div class="footer__social">
                               <ul>
-                                 <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                 <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                               
+                                 <li><a href="https://www.linkedin.com/company/pixymobile" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
                               </ul>
                            </div>
                         </div>
