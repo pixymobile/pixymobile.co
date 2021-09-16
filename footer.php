@@ -16,8 +16,7 @@
                            </div>
                         </div>
                         <div class="footer__widget-content">
-                           <p>Pixy create powerfull apps for all world. 
-It provide services in the category of tools to users by making multi-purpose applications.</p>
+                           <p>Pixy, güçlü uygulamalar yaratır. Çok amaçlı uygulamalar yaparak kullanıcılara hizmet vermektedir.</p>
                         </div>
                      </div>
                   </div>

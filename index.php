@@ -228,7 +228,7 @@
                            <li>Güncel repo ve trend olan tasarım anlayışlarını benimsiyoruz.</li>
                            <li>Kullanıcılarımızın davranışlarına göre uygulamalarımızı sürekli güncelliyoruz.</li>
                         </ul>
-                        <a href="contact.html" class="w-btn w-btn-3 w-btn-1">Daha Fazla</a>
+                        <a href="contact.html" class="w-btn w-btn-3 w-btn-1">Daha</a>
                      </div>
 
 
@@ -268,12 +268,12 @@
                   <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-9">
                      <div class="about__wrapper about__wrapper-2 ml-60 mb-30">
                         <div class="section__title-wrapper mb-25">
-                           <h2 class="section__title">Awesome Prototyping Tool for UI/UX.</h2>
-                           <p>Starkers pardon you knees up is Elizabeth geeza Why, quain standard  guvnor gosh cras brilliant.</p>
+                           <h2 class="section__title">Ezberleri bozuyoruz.</h2>
+                           <p>Tasarım anlamında sıradışı işler yapıyoruz ve kullanıcılarımızı güzel bir serüvene sürüklüyoruz.</p>
                         </div>
                         <ul>
-                           <li>Intergate With Popular Softwares item</li>
-                           <li>Instantly Create Your Crowdfunding Platform</li>
+                           <li>Tasarımları en minimal ve kullanışlı şekilde hazırlıyoruz</li>
+                           <li>Trendleri takip ederek, en iyisi için çabalıyoruz</li>
                         </ul>
                         <a href="contact.html" class="w-btn w-btn-3 w-btn-1">Get Started</a>
                      </div>
