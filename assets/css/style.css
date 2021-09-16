@@ -916,7 +916,7 @@ p {
   margin-bottom: 18px;
 }
 .section__title {
-  font-size: 36px;
+  font-size: 34px;
   font-weight: 800;
   color: #070337;
   margin-bottom: 25px;
@@ -970,8 +970,8 @@ p {
   padding-right: 95px;
 }
 .section__title-4-p-2 {
-  padding-left: 95px;
-  padding-right: 95px;
+  /* padding-left: 95px; */
+  /* padding-right: 95px; */
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .section__title-4-p-2 {
