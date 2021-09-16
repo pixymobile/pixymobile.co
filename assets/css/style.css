@@ -3165,11 +3165,12 @@ p {
   z-index: 1;
 }
 .hero__thumb-3 img.hero-phone {
-  margin-left: -38px;
+  margin-left: -45px;
 }
 @media (max-width: 575px) {
   .hero__thumb-3 img.hero-phone {
     width: 100%;
+    margin-top: 48px;
   }
 }
 .hero__thumb-3 img.hero-3-gradient {
