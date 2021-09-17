@@ -9366,6 +9366,9 @@ p {
   .sign__header {
     padding: 0 10px;
   }
+
+
+
 }
 @media (max-width: 575px) {
   .sign__header {
@@ -9847,3 +9850,14 @@ p {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+/*Others*/
+
+.features__tab .nav-tabs .nav-item .nav-link.green-bg {
+    background: #ace6a9d4;
+}
+
+.features__tab .nav-tabs .nav-item .nav-link.active.green-bg {
+    background: #64bd5fd4;
+}

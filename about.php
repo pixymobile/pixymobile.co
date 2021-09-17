@@ -146,9 +146,10 @@
                            <img src="assets/img/services/home-4/services-2.png" alt="">
                         </div>
                         <div class="services__content-4">
-                           <h3 class="services__title-4"><a href="services-details.html">Start workflows from any app</a></h3>
-                           <p>I smashing, hanky panky chap plastered show off show off pick your nose plastered.</p>
-                           <a href="services-details.html" class="link-btn">Chat Platfrom <i class="arrow_right"></i> </a>
+                           <h3 class="services__title-4"><a href="services-details.html">
+                        En ince ayrıntıları tasarlıyoruz.</a></h3>
+                           <p>Gelişigüzel uygulamalar yapmıyoruz! Ekip çalışmasının ardından ardından en güzel sonuçları ortaya çıkarıyoruz.</p>
+                       
                         </div>
                      </div>
                   </div>
