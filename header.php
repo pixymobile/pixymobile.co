@@ -1,6 +1,6 @@
   <!-- header area start -->
       <header>
-         <div id="header-sticky" class="header__area header__shadow header__padding">
+         <div id="header-sticky" class="header__area header__shadow-2 header__padding">
             <div class="container">
                <div class="row align-items-center">
                   <div class="col-xxl-4 col-xl-2 col-lg-2 col-md-6 col-6">
