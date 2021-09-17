@@ -228,7 +228,7 @@
                            <li>Güncel repo ve trend olan tasarım anlayışlarını benimsiyoruz.</li>
                            <li>Kullanıcılarımızın davranışlarına göre uygulamalarımızı sürekli güncelliyoruz.</li>
                         </ul>
-                        <a href="contact.html" class="w-btn w-btn-3 w-btn-1">Daha</a>
+                      
                      </div>
 
 
@@ -268,12 +268,13 @@
                   <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-9">
                      <div class="about__wrapper about__wrapper-2 ml-60 mb-30">
                         <div class="section__title-wrapper mb-25">
-                           <h2 class="section__title">Ezberleri bozuyoruz.</h2>
-                           <p>Tasarım anlamında sıradışı işler yapıyoruz ve kullanıcılarımızı güzel bir serüvene sürüklüyoruz.</p>
+                           <h2 class="section__title">İşlerimizi karmaşık değil basitleştiriyoruz</h2>
+                           <p>Tasarım ve kod anlamında sıradışı işler yapıyoruz ve kullanıcılarımız uygulamalarımızdan tam performans almasını sağlıyoruz.</p>
                         </div>
                         <ul>
                            <li>Tasarımları en minimal ve kullanışlı şekilde hazırlıyoruz</li>
                            <li>Trendleri takip ederek, en iyisi için çabalıyoruz</li>
+                             <li>Kod mimarisini takip ederek, performansa asla düşürmeyecek uygulamalar sunuyoruz.</li>
                         </ul>
                         <a href="contact.html" class="w-btn w-btn-3 w-btn-1">Get Started</a>
                      </div>
@@ -1656,22 +1657,7 @@
      
          ?>
 
-  <!-- JS here -->
-      <script src="assets/js/vendor/jquery-3.5.1.min.js"></script>
-      <script src="assets/js/vendor/waypoints.min.js"></script>
-      <script src="assets/js/bootstrap.bundle.min.js"></script>
-      <script src="assets/js/jquery.meanmenu.js"></script>
-      <script src="assets/js/owl.carousel.min.js"></script>
-      <script src="assets/js/jquery.fancybox.min.js"></script>
-      <script src="assets/js/isotope.pkgd.min.js"></script>
-      <script src="assets/js/parallax.min.js"></script>
-      <script src="assets/js/backToTop.js"></script>
-      <script src="assets/js/jquery.counterup.min.js"></script>
-      <script src="assets/js/ajax-form.js"></script>
-      <script src="assets/js/wow.min.js"></script>
-      <script src="assets/js/imagesloaded.pkgd.min.js"></script>
-      <script src="assets/js/main.js"></script>
-     
+ 
    </body>
 
 </html>

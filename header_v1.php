@@ -29,7 +29,7 @@
                                     
                                  </li>
                                  <li>
-                                    <a href="services.html">Kariyer</a>
+                                    <a href="career.php">Kariyer</a>
                                     
                                  </li>
                                 

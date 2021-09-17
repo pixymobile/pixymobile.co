@@ -8841,7 +8841,7 @@ p {
   }
 }
 .contact__title {
-  font-size: 40px;
+  font-size: 38px;
   font-weight: 800;
   color: #011224;
   margin-bottom: 37px;
@@ -8941,7 +8941,7 @@ p {
   right: 0;
   top: 10px;
   border-radius: 20px;
-  background: #1c7df8;
+  background: #91c73e;
   height: 50%;
   z-index: -1;
 }
@@ -9060,7 +9060,7 @@ p {
 /*  22. SIGN CSS START
 /*----------------------------------------*/
 .sign__wrapper {
-  padding: 50px 70px;
+  padding: 50px 37px;
   padding-bottom: 45px;
   margin: 0 30px;
   -webkit-border-radius: 10px;
@@ -9406,27 +9406,25 @@ p {
   -moz-border-radius: 6px;
   border-radius: 6px;
   position: relative;
-  line-height: 48px;
-  padding-left: 23px;
+  line-height: 52px;
+  padding-left: 25px;
   z-index: 1;
   overflow: hidden;
   font-size: 16px;
+  text-align: center;
 }
 .sign__social::after {
   position: absolute;
   content: "";
-  left: -55%;
-  top: 45%;
+  left: -51%;
+  top: 43%;
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
   height: 220px;
-  width: 220px;
+  width: 250px;
   background: #3360bd;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  border-radius: 50%;
   z-index: -1;
 }
 @media (max-width: 575px) {
@@ -9436,8 +9434,9 @@ p {
 }
 .sign__social i {
   color: #ffffff;
-  font-size: 16px;
-  margin-right: 50px;
+  font-size: 20px;
+  margin-right: 80px;
+  text-align: center;
 }
 @media (max-width: 575px) {
   .sign__social i {
@@ -9860,4 +9859,26 @@ p {
 
 .features__tab .nav-tabs .nav-item .nav-link.active.green-bg {
     background: #64bd5fd4;
+}
+textarea#w3review {
+    width: 100%;
+    height: 60px;
+    line-height: 30px;
+    padding: 0 15px;
+    font-size: 14px;
+    border: 2px solid transparent;
+    background: #f5f5f7;
+    color: #222222;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+textarea#w3review:focus {
+    outline: none;
+    background: #ffffff;
+    border-color: #1c7df8;
+    -webkit-box-shadow: 0px 1px 4px 0px rgb(8 0 42 / 20%);
+    -moz-box-shadow: 0px 1px 4px 0px rgba(8, 0, 42, 0.2);
+    box-shadow: 0px 1px 4px 0px rgb(8 0 42 / 20%);
 }

@@ -170,52 +170,7 @@
             <div class="contact__shape">
                <img src="assets/img/contact/shape.png" alt="">
             </div>
-            <div class="container">
-               <div class="row">
-                  <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
-                     <div class="contact__item-inner hover__active mb-30">
-                        <div class="contact__item text-center transition-3 white-bg">
-                           <div class="contact__icon d-flex justify-content-center align-items-end">
-                              <img src="assets/img/contact/call.png" alt="">
-                           </div>
-                           <div class="contact__content">
-                              <h3 class="contact__title-2"><a href="#">Quick Answers</a></h3>
-                              <p>Absolutely bladdered he  blimey guvnor agency. </p>
-                              <a href="#" class="link-btn">Read More <i class="arrow_right"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".5s">
-                     <div class="contact__item-inner hover__active mb-30">
-                        <div class="contact__item text-center transition-3 white-bg">
-                           <div class="contact__icon d-flex justify-content-center align-items-end">
-                              <img src="assets/img/contact/message.png" alt="">
-                           </div>
-                           <div class="contact__content">
-                              <h3 class="contact__title-2"><a href="#">Customer Support</a></h3>
-                              <p>Absolutely bladdered he  blimey guvnor agency. </p>
-                              <a href="#" class="link-btn">Help & Support<i class="arrow_right"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".7s">
-                     <div class="contact__item-inner hover__active mb-30">
-                        <div class="contact__item text-center transition-3 white-bg">
-                           <div class="contact__icon d-flex justify-content-center align-items-end">
-                              <img src="assets/img/contact/social.png" alt="">
-                           </div>
-                           <div class="contact__content">
-                              <h3 class="contact__title-2"><a href="#">We are Social</a></h3>
-                              <p>Absolutely bladdered he  blimey guvnor agency. </p>
-                              <a href="#" class="link-btn">Join our Community<i class="arrow_right"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
+           
          </section>
          <!-- contact support area end -->
 
@@ -242,21 +197,7 @@
          ?>
       <!-- footer area end -->
 
-      <!-- JS here -->
-      <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/vendor/jquery-3.5.1.min.js"></script>
-      <script src="assets/js/vendor/waypoints.min.js"></script>
-      <script src="assets/js/bootstrap.bundle.min.js"></script>
-      <script src="assets/js/jquery.meanmenu.js"></script>
-      <script src="assets/js/owl.carousel.min.js"></script>
-      <script src="assets/js/jquery.fancybox.min.js"></script>
-      <script src="assets/js/isotope.pkgd.min.js"></script>
-      <script src="assets/js/parallax.min.js"></script>
-      <script src="assets/js/backToTop.js"></script>
-      <script src="assets/js/jquery.counterup.min.js"></script>
-      <script src="assets/js/ajax-form.js"></script>
-      <script src="assets/js/wow.min.js"></script>
-      <script src="assets/js/imagesloaded.pkgd.min.js"></script>
-      <script src="assets/js/main.js"></script>
+      
    </body>
 
 </html>
