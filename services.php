@@ -130,7 +130,7 @@
                   <div class="col-xxl-4 col-lg-5 col-md-7">
                      <div class="section__title-wrapper mb-70 wow fadeInUp" data-wow-delay=".3s">
                         <span class="section__pre-title purple">Hizmetler</span>
-                        <h2 class="section__title section__title-2">Our new features we build great.</h2>
+                        <h2 class="section__title section__title-2">Bize uygun hedefleri belirliyoruz.</h2>
                      </div>
                   </div>
                   <div class="col-xxl-8 col-lg-7 col-md-5">

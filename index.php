@@ -329,9 +329,9 @@
                            <div class="tab-pane fade active show" id="sync" role="tabpanel" aria-labelledby="sync-tab">
                               <div class="features__thumb">
                                  <div class="features__thumb-inner">
-                                    <img class="fea-thumb" src="assets/img/features/home-2/fea-thumb-2.jpg" alt="">
-                                    <img class="fea-sm" src="assets/img/features/home-2/fea-sm.jpg" alt="">
-                                    <img class="fea-sm-2" src="assets/img/features/home-2/fea-sm-2.jpg" alt="">
+                                    <img class="fea-thumb" src="assets/img/features/home-2/fea-thumb-2.png" alt="">
+                                    <img class="fea-sm" src="assets/img/features/home-2/fea-sm.png" alt="">
+                                    <img class="fea-sm-2" src="assets/img/features/home-2/fea-sm-2.png" alt="">
                                     <img class="fea-2-shape" src="assets/img/icon/features/home-2/features-shape.png" alt="">
                                  </div>
                               </div>
