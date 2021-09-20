@@ -9882,3 +9882,7 @@ textarea#w3review:focus {
     -moz-box-shadow: 0px 1px 4px 0px rgba(8, 0, 42, 0.2);
     box-shadow: 0px 1px 4px 0px rgb(8 0 42 / 20%);
 }
+
+.main-menu-3 ul li a.active {
+    border-bottom: 3px solid #9bc43f;
+}

@@ -130,13 +130,11 @@
                   <div class="col-xxl-4 col-lg-5 col-md-7">
                      <div class="section__title-wrapper mb-70 wow fadeInUp" data-wow-delay=".3s">
                         <span class="section__pre-title purple">Hizmetler</span>
-                        <h2 class="section__title section__title-2">Bize uygun hedefleri belirliyoruz.</h2>
+                        <h2 class="section__title section__title-2">Misyonumuz üretmek!</h2>
                      </div>
                   </div>
                   <div class="col-xxl-8 col-lg-7 col-md-5">
-                     <div class="services__more mb-70 text-sm-end">
-                        <a href="services.html" class="w-btn w-btn-blue w-btn-6 w-btn-3">view all features</a>
-                     </div>
+                   
                   </div>
                </div>
                <div class="row">
@@ -148,7 +146,7 @@
                            </div>
                            <div class="services__content-2">
                               <h3 class="services__title-2"><a href="services-details.html">Geliştirme</a></h3>
-                              <p>Absolutely bladdered he  blimey guvnor agency. </p>
+                              <p>Kendimize özgü yazılımlarla ve trendleri takip ederek uygulamalarımızı inşaa ediyoruz. </p>
                            </div>
                         </div>
                      </div>
@@ -161,7 +159,7 @@
                            </div>
                            <div class="services__content-2">
                               <h3 class="services__title-2"><a href="services-details.html">UI / UX</a></h3>
-                              <p>Absolutely bladdered he  blimey guvnor agency. </p>
+                              <p>Tasarım trendlerine önem veriyoruz. Minimal tasarımlar yaparak kullanıcıyı mutlu ediyoruz. </p>
                            </div>
                         </div>
                      </div>
@@ -174,7 +172,7 @@
                            </div>
                            <div class="services__content-2">
                               <h3 class="services__title-2"><a href="services-details.html">Pazarlama</a></h3>
-                              <p>Absolutely bladdered he  blimey guvnor agency. </p>
+                              <p>Hedefi tam on ikiden vurmak için pazarlama stratejisini doğru kullanıyoruz. </p>
                            </div>
                         </div>
                      </div>
