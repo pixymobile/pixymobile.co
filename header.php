@@ -19,13 +19,13 @@
                                     <a href="index.php">Anasayfa</a>
                                   
                                  </li>
-                                 <li><a href="about.html">Hakkımızda</a></li>
+                                 <li><a href="about.php">Hakkımızda</a></li>
                                  <li>
-                                    <a href="services.html">Hizmetlerimiz</a>
+                                    <a href="services.php">Hizmetlerimiz</a>
                                     
                                  </li>
                                   <li>
-                                    <a href="services.html">Ekibimiz</a>
+                                    <a href="team.php">Ekibimiz</a>
                                     
                                  </li>
                                  <li>
