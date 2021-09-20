@@ -221,7 +221,7 @@
                   <div class="col-xxl-5 col-xl-6 col-lg-6 col-md-9">
                      <div class="about__wrapper mb-10">
                         <div class="section__title-wrapper mb-25">
-                         <h2 class="section__title">Kullanıcılarımızı anlayıp, araştırıp uygulamamızı ona göre şekillendiriyoruz.</h2>
+                         <h2 class="section__title">Kullanıcılarımızı anlayıp uygulamamızı ona göre şekillendiriyoruz.</h2>
                            <p>Kullanıcılarımızın istedikleri bizim çok önemli, bu yüzden arayüze ve kod yapısına çok önem veriyoruz. En basit ama bir o kadarda efektif uygulamalar yaratıyoruz.</p>
                         </div>
                         <ul>
@@ -268,7 +268,7 @@
                   <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-9">
                      <div class="about__wrapper about__wrapper-2 ml-60 mb-30">
                         <div class="section__title-wrapper mb-25">
-                           <h2 class="section__title">Kar</h2>
+                           <h2 class="section__title">Sıradışı işler yapıyoruz</h2>
                            <p>Tasarım ve kod anlamında sıradışı işler yapıyoruz ve kullanıcılarımız uygulamalarımızdan tam performans almasını sağlıyoruz.</p>
                         </div>
                         <ul>

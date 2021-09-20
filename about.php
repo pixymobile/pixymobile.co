@@ -165,14 +165,16 @@
                   <div class="col-xxl-5 col-xl-6 col-lg-6 col-md-9 order-last order-lg-first">
                      <div class="about__wrapper about__wrapper-2 mb-20">
                         <div class="section__title-wrapper mb-25 wow fadeInUp" data-wow-delay=".3s">
-                           <h2 class="section__title">Awesome Prototyping Tool for UI/UX.</h2>
-                           <p>Starkers pardon you knees up is Elizabeth geeza Why, quain standard  guvnor gosh cras brilliant.</p>
+                           <h2 class="section__title">Profosyonel uygulamalar geliştiriyoruz.</h2>
+                           <p>Ürünlerimizi en iyi şekilde tasarlayıp, piyasaya sunuyoruz.</p>
                         </div>
                         <ul class="wow fadeInUp" data-wow-delay=".5s">
-                           <li>Intergate With Popular Softwares item</li>
-                           <li>Instantly Create Your Crowdfunding Platform</li>
+                           <li>Güncel mimariler kullanıyoruz</li>
+                           <li>Tasarım trendlerini takip ediyoruz</li>
+                            <li>Hedef kitlemizi doğru belirliyoruz</li>
+                            <li>Uygulamamızı doğru pazarlıyoruz</li>
                         </ul>
-                        <a href="contact.html" class="w-btn w-btn-3 w-btn-1">Get Started</a>
+                     
                      </div>
                   </div>
                   <div class="col-xxl-6 offset-xxl-1 col-xl-6 col-lg-6 wow fadeInRight" data-wow-delay=".7s">
@@ -260,7 +262,7 @@
          </section>
          <!-- faq area end -->
 
-         <!-- promotion area start -->
+         <!-- promotion area start
          <section class="promotion__area promotion__bg pt-125 pb-125 p-relative">
             <div class="promotion__shape">
                <img class="promotion-dot" src="assets/img/icon/promotion/pro-dot.png" alt="">
@@ -286,7 +288,7 @@
                </div>
             </div>
          </section>
-         <!-- promotion area end -->
+       promotion area end -->
       </main>
 
       <!-- footer area start -->
@@ -298,6 +300,6 @@
       <!-- footer area end -->
    </body>
 
-<!-- Mirrored from themepure.net/template/wetland-prev/wetland/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 09 Sep 2021 07:24:43 GMT -->
+
 </html>
 

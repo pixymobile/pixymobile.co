@@ -38,7 +38,7 @@
                         </div>
                         <div class="header__action ml-40 text-end d-flex align-items-center justify-content-end">
                            <div class="header__right-btn d-none d-md-flex d-xl-block">
-                              <a href="contact.html" class="w-btn w-btn-purple w-btn-7">İletişim</a>
+                              <a href="contact.php" class="w-btn w-btn-purple w-btn-7">İletişim</a>
                            </div>
                         </div>
                      </div>
