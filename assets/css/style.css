@@ -6819,7 +6819,7 @@ p {
 /*----------------------------------------*/
 .faq__wrapper {
   padding: 0 40px;
-  border-top: 3px solid #2f80ed;
+  border-top: 3px solid #91c73e;
   box-shadow: 0px 30px 70px 0px rgba(11, 6, 70, 0.08), inset 0px 3px 0px 0px rgba(47, 128, 237, 0.004);
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
@@ -6876,10 +6876,10 @@ p {
   content: "";
 }
 .faq__wrapper .accordion-item .accordion-header .accordion-button:hover {
-  color: #2f80ed;
+  color: #91c73e;
 }
 .faq__wrapper .accordion-item .accordion-header .accordion-button:hover::after {
-  color: #2f80ed;
+  color: #91c73e;
 }
 .faq__wrapper .accordion-item .accordion-body {
   padding: 0;

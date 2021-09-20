@@ -122,7 +122,7 @@
                <div class="row">
                   <div class="col-xxl-6 offset-xl-3 col-xl-6 offset-xl-3 col-lg-8 offset-lg-2 col-md-10 offset-md-1">
                      <div class="section__title-wrapper section__title-wrapper-4 text-center mb-65 wow fadeInUp" data-wow-delay=".3s">
-                        <h2 class="section__title section__title-4 section__title-4-p-2">Profosyonel Uygulamalar Yazıyoruz</h2>
+                        <h2 class="section__title section__title-4 section__title-4-p-2">Kullanıcılarımızı mutlu ediyoruz</h2>
                         <p>Uygulamalarımızda son trendleri takip ediyoruz, planlıyoruz, çiziyoruz, kodluyoruz, pazarlıyoruz! İşte başarımızın sırrı burada.</p>
                      </div>
                   </div>
@@ -197,39 +197,28 @@
                            <div class="accordion-item">
                               <h2 class="accordion-header" id="headingOne">
                                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                 What to do if you can’t access ?
+                                 Neler yapıyoruz?
                                  </button>
                               </h2>
                               <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                  <div class="accordion-body">
-                                 <p>Looking to start an online store and you're not sure where to begin? I'll guide will help you to navigate Would you like to boost your Twitter profile.</p>
+                                 <p>Pixy olarak mobil uygulama ve web siteleri tasarlayıp tüm dünyaya pazarlıyoruz. Özellikle mobil uygulama kısmında son trendleri takip ediyoruz ve yeni projeler tasarlıyoruz.</p>
                                  </div>
                               </div>
                            </div>
                            <div class="accordion-item">
                               <h2 class="accordion-header" id="headingTwo">
                                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                 How to start an online store in 2021 ?
+                                 Nasıl yapıyoruz ?
                                  </button>
                               </h2>
                               <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                  <div class="accordion-body">
-                                 <p>Looking to start an online store and you're not sure where to begin? I'll guide will help you to navigate Would you like to boost your Twitter profile.</p>
+                                 <p>Projelerimizi önce piyasayı takip ederek araştırmaya başlıyoruz ve bunu bir plana döküyoruz Tüm araştırmalar sonucunda tasarım ve kodlama kısmına gerekli analizleri yapıyoruz ve uygulamaya geçiyoruz. Pazarlama aşamasında hedef kitleyi doğru tutturmaya özen gösteriyoruz.</p>
                                  </div>
                               </div>
                            </div>
-                           <div class="accordion-item border-none">
-                              <h2 class="accordion-header" id="headingThree">
-                                 <button class="accordion-button collapsed pb-0 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                 How to change font size in wordPress ?
-                                 </button>
-                              </h2>
-                              <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                 <div class="accordion-body">
-                                 <p>Looking to start an online store and you're not sure where to begin? I'll guide will help you to navigate Would you like to boost your Twitter profile.</p>
-                                 </div>
-                              </div>
-                           </div>
+                     
                            </div>
                      </div>
                   </div>

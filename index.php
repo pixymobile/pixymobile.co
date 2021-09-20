@@ -114,7 +114,7 @@
                         <div class="hero__app wow fadeInUp" data-wow-delay=".7s" style="visibility: visible; animation-delay: 0.7s;">
                            <ul>
                               <li>
-                                 <a href="#" class="d-flex align-items-center active">
+                                 <a href="https://play.google.com/store/apps/details?id=com.free.vpn.ninja&hl" target="_blank" class="d-flex align-items-center active">
                                     <div class="hero__app-icon">
                                        <i class="fab fa-google-play"></i>
                                     </div>
@@ -529,98 +529,6 @@
          </section>
          <!-- why area end -->
 
-
-<section class="features__area pt-60 pb-155 p-relative overflow-y-visible">
-            <div class="circle-animation features">
-               <span></span>
-            </div>
-            <div class="features__shape">
-               <img class="features-circle-1" src="assets/img/icon/features/home-1/circle-1.png" alt="">
-            </div>
-            <div class="container">
-               <div class="row">
-                  <div class="col-xxl-6 col-xl-6 col-lg-6">
-                     <div class="section__title-wrapper mb-65 wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                        <h2 class="section__title">Software is Easy Prototyping Features.</h2>
-                        <p>Over the last few years, podcasts have become a role in the online landscape.</p>
-                     </div>
-                  </div>
-               </div>
-               <div class="row">
-                  <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                     <div class="features__item mb-30 wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                        <div class="features__icon mb-35">
-                           <span class="gradient-pink"><i class="far fa-heart-rate"></i></span>
-                        </div>
-                        <h3 class="features__title">API management</h3>
-                        <div class="features__list">
-                           <ul>
-                              <li>Secure Access</li>
-                              <li>Connectivity</li>
-                              <li>Engagement</li>
-                              <li>Secure Access</li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                     <div class="features__item mb-30 wow fadeInUp pl-15" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-                        <div class="features__icon mb-35">
-                           <span class="gradient-blue"><i class="fal fa-chart-pie-alt"></i></span>
-                        </div>
-                        <h3 class="features__title">Scheduled Reports</h3>
-                        <div class="features__list">
-                           <ul>
-                              <li>Publish anywhere </li>
-                              <li>Influencer</li>
-                              <li>Content Creation</li>
-                              <li>Prepare your brand</li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                     <div class="features__item mb-30 wow fadeInUp pl-45" data-wow-delay=".7s" style="visibility: visible; animation-delay: 0.7s; animation-name: fadeInUp;">
-                        <div class="features__icon mb-35">
-                           <span class="gradient-yellow"><i class="fal fa-tag"></i></span>
-                        </div>
-                        <h3 class="features__title">Compliance Controls</h3>
-                        <div class="features__list">
-                           <ul>
-                              <li>Animations</li>
-                              <li>3D Viewer</li>
-                              <li>Creation</li>
-                              <li>Packaging Designer </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 d-lg-flex justify-content-end">
-                     <div class="features__item mb-30 wow fadeInUp" data-wow-delay=".9s" style="visibility: visible; animation-delay: 0.9s; animation-name: fadeInUp;">
-                        <div class="features__icon mb-35">
-                           <span class="gradient-purple"><i class="fal fa-layer-group"></i></span>
-                        </div>
-                        <h3 class="features__title">Authentication</h3>
-                        <div class="features__list">
-                           <ul>
-                              <li>Print Templates</li>
-                              <li>Mockups</li>
-                              <li>Statement</li>
-                              <li>Recruitment</li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="row">
-                  <div class="col-xxl-12">
-                     <div class="features__more text-center mt-50">
-                        <a href="services.html" class="w-btn w-btn-6 w-btn-5">View all Features</a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </section>
 
 
          <!-- testimonial area start 
