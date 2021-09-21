@@ -135,7 +135,7 @@
                         </div>
                         <div class="services__content-4">
                            <h3 class="services__title-4"><a href="services-details.html">Kullanıcılarımızın mutluluğuna önem veriyoruz.</a></h3>
-                           <p>Klasik bir tasarım yerine minimal çizgiler kullanarak uygulamayı sıradışı haline getiriyoruz.</p>
+                           <p>Klasik bir tasarım yerine minimal çizgiler kullanarak uygulamayı sıradışı hale getiriyoruz.</p>
                            
                         </div>
                      </div>
@@ -226,7 +226,7 @@
                      <div class="faq__content">
                         <div class="section__title-wrapper section__title-wrapper-2 mb-35 wow fadeInUp" data-wow-delay=".3s">
                            <h2 class="section__title section__title-2">Kullanıcılarımız bize güveniyor!</h2>
-                           <p>Son bir kaç ayda uygulamalarımızda yüksek potansiyeller yakalıyoruz.</p>
+                           <p>Kullanıcılarımız asla yalan söylemez! En güzel uygulamaları yaratmak için yüksek tempo ile çalışıyoruz!</p>
                         </div>
                         <div class="faq__counter wow fadeInUp" data-wow-delay=".5s">
                            <ul>
@@ -235,7 +235,7 @@
                                  <p>Kullanıcı</p>
                               </li>
                               <li>
-                                 <h3 class="blue"><span class="counter">8</span></h3>
+                                 <h3 class="blue"><span class="counter">10</span></h3>
                                  <p>Proje</p>
                               </li>
                               <li>

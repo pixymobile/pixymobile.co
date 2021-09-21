@@ -9894,3 +9894,13 @@ textarea#w3review:focus {
 .footer__logo img {
     width: 110px;
 }
+
+
+.circle-animation.cta-1.footer {
+    top: 12%;
+    left: -8%;
+    border: 1px solid rgba(18, 129, 255, 0.14);
+    width: 270px;
+    height: 270px;
+    z-index: 0;
+}

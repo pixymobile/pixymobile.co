@@ -1,5 +1,9 @@
 <footer class="footer__area grey-bg-3 pt-70 p-relative">
-         <div class="footer__shape">
+         <div class="footer__shape">   
+            
+            <div class="circle-animation cta-1 footer">
+<span></span>
+</div>
             <img class="footer-circle-1" src="assets/img/icon/footer/home-1/circle-1.png" alt="">
             <img class="footer-circle-2" src="assets/img/icon/footer/home-1/circle-2.png" alt="">
          </div>
@@ -60,8 +64,9 @@
                         <div class="footer__widget-content">
                            <div class="footer__social">
                               <ul>
-                               
+                           
                                  <li><a href="https://www.linkedin.com/company/pixymobile" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                 <li><a href="https://www.instagram.com/pixymobile" target="_blank"><i class="fab fa-instagram"></i></a></li>
                               </ul>
                            </div>
                         </div>
