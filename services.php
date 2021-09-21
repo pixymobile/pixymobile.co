@@ -183,85 +183,26 @@
          <!-- services area end -->
 
          <!-- features area start -->
-         <section class="features__area pt-110 pb-70 p-relative overflow-y-visible">
-            <div class="circle-animation features">
-               <span></span>
-            </div>
-            <div class="features__shape">
-               <img class="features-circle-1" src="assets/img/icon/features/home-1/circle-1.png" alt="">
+      <section class="about__area grey-bg-3 pt-40 pb-120 p-relative">
+            <div class="about__shape-2">
+               <img class="about-2-circle" src="assets/img/about/home-2/about-circle.png" alt="">
+               <img class="about-2-circle-2" src="assets/img/about/home-2/about-circle-2.png" alt="">
             </div>
             <div class="container">
                <div class="row">
-                  <div class="col-xxl-6 col-xl-6 col-lg-6">
-                     <div class="section__title-wrapper mb-65 wow fadeInUp" data-wow-delay=".3s">
-                        <h2 class="section__title">Software is Easy Prototyping Features.</h2>
-                        <p>Over the last few years, podcasts have become a role in the online landscape.</p>
+                  <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-8">
+                     <div class="about__thumb-3 wow fadeInLeft" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                        <img src="assets/img/about/home-2/about-1.png" alt="">
                      </div>
                   </div>
-               </div>
-               <div class="row">
-                  <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                     <div class="features__item mb-30 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="features__icon mb-35">
-                           <span class="gradient-pink"><i class="far fa-heart-rate"></i></span>
+                  <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-8">
+                     <div class="about__content-3 pt-55">
+                        <div class="section__title-wrapper section__title-wrapper-2 mb-55 wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                           <span class="section__pre-title pink">Features</span>
+                           <h2 class="section__title section__title-2">Get the perfect solution for your web.</h2>
+                           <p>Starkers pardon you knees up is Elizabeth geeza Why, quain standard  guvnor gosh cras brilliant.</p>
                         </div>
-                        <h3 class="features__title">API management</h3>
-                        <div class="features__list">
-                           <ul>
-                              <li>Secure Access</li>
-                              <li>Connectivity</li>
-                              <li>Engagement</li>
-                              <li>Secure Access</li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                     <div class="features__item mb-30 wow fadeInUp pl-15" data-wow-delay=".5s">
-                        <div class="features__icon mb-35">
-                           <span class="gradient-blue"><i class="fal fa-chart-pie-alt"></i></span>
-                        </div>
-                        <h3 class="features__title">Scheduled Reports</h3>
-                        <div class="features__list">
-                           <ul>
-                              <li>Publish anywhere </li>
-                              <li>Influencer</li>
-                              <li>Content Creation</li>
-                              <li>Prepare your brand</li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                     <div class="features__item mb-30 wow fadeInUp pl-45" data-wow-delay=".7s">
-                        <div class="features__icon mb-35">
-                           <span class="gradient-yellow"><i class="fal fa-tag"></i></span>
-                        </div>
-                        <h3 class="features__title">Compliance Controls</h3>
-                        <div class="features__list">
-                           <ul>
-                              <li>Animations</li>
-                              <li>3D Viewer</li>
-                              <li>Creation</li>
-                              <li>Packaging Designer </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 d-lg-flex justify-content-end">
-                     <div class="features__item mb-30 wow fadeInUp" data-wow-delay=".9s">
-                        <div class="features__icon mb-35">
-                           <span class="gradient-purple"><i class="fal fa-layer-group"></i></span>
-                        </div>
-                        <h3 class="features__title">Authentication</h3>
-                        <div class="features__list">
-                           <ul>
-                              <li>Print Templates</li>
-                              <li>Mockups</li>
-                              <li>Statement</li>
-                              <li>Recruitment</li>
-                           </ul>
-                        </div>
+                        <a href="about.html" class="w-btn w-btn-blue w-btn-3 w-btn-1">Get Started</a>
                      </div>
                   </div>
                </div>
