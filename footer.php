@@ -11,7 +11,7 @@
                         <div class="footer__widget-title mb-25">
                            <div class="footer__logo">
                               <a href="index.html">
-                                 <img src="assets/img/logo/logo.png" alt="logo">
+                                 <img src="assets/img/logo/logo.svg" style="width:125px;" alt="logo">
                               </a>
                            </div>
                         </div>

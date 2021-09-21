@@ -104,7 +104,7 @@
                   <div class="col-xxl-8 offset-xxl-2 col-xl-8 offset-xl-2">
                      <div class="page__title-wrapper text-center mb-55">
                         <h2 class="page__title-2">Kariyer <br></h2>
-                        <p>Takımımıza katılarak ekibimizi büyütelim</a></p>
+                        <p>Takımımıza katıl, ekibimizde yer al.</a></p>
                      </div>
                   </div>
                </div>
@@ -123,36 +123,36 @@
                                  <h5>Ad</h5>
                                  <div class="sign__input">
                                     <input type="text" placeholder="Ad">
-                                    <i class="fal fa-envelope"></i>
+                            
                                  </div>
                               </div>
                               <div class="sign__input-wrapper mb-10">
                                  <h5>Soyad</h5>
                                  <div class="sign__input">
                                     <input type="text" placeholder="Soyad">
-                                    <i class="fal fa-lock"></i>
+                             
                                  </div>
                               </div>
                                <div class="sign__input-wrapper mb-10">
                                  <h5>Cep Telefonu</h5>
                                  <div class="sign__input">
                                     <input type="number" placeholder="Cep Telefonu">
-                                    <i class="fal fa-lock"></i>
+                       
                                  </div>
                               </div>
                                <div class="sign__input-wrapper mb-10">
                                  <h5>E posta</h5>
                                  <div class="sign__input">
                                     <input type="text" placeholder="E-posta">
-                                    <i class="fal fa-lock"></i>
+                                 
                                  </div>
                               </div>
                                
                                <div class="sign__input-wrapper mb-10">
                                  <h5>Başvurulan Bölüm</h5>
                                  <div class="sign__input">
-                                    <input type="text" placeholder="Password">
-                                    <i class="fal fa-lock"></i>
+                                    <input type="text" placeholder="Bölüm">
+                             
                                  </div>
                               </div>
                              
@@ -162,7 +162,7 @@
                                  <h5>Lokasyon</h5>
                                  <div class="sign__input">
                                     <input type="textarea" placeholder="Lokasyon">
-                                    <i class="fal fa-lock"></i>
+                                  
                                  </div>
                               </div>
 

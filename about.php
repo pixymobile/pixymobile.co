@@ -165,7 +165,7 @@
                   <div class="col-xxl-5 col-xl-6 col-lg-6 col-md-9 order-last order-lg-first">
                      <div class="about__wrapper about__wrapper-2 mb-20">
                         <div class="section__title-wrapper mb-25 wow fadeInUp" data-wow-delay=".3s">
-                           <h2 class="section__title">Profosyonel uygulamalar geliştiriyoruz.</h2>
+                           <h2 class="section__title">Profesyonel uygulamalar geliştiriyoruz.</h2>
                            <p>Ürünlerimizi en iyi şekilde tasarlayıp, piyasaya sunuyoruz.</p>
                         </div>
                         <ul class="wow fadeInUp" data-wow-delay=".5s">
@@ -225,23 +225,21 @@
                   <div class="col-xxl-5 offset-xxl-1 col-xl-5 offset-xl-1 col-lg-6 col-md-8">
                      <div class="faq__content">
                         <div class="section__title-wrapper section__title-wrapper-2 mb-35 wow fadeInUp" data-wow-delay=".3s">
-                           <h2 class="section__title section__title-2">Loved and trusted by over 40k+ users!</h2>
-                           <p>Over the last few years, podcasts have become a huge deal. They’ve taken on a growing role.</p>
+                           <h2 class="section__title section__title-2">Kullanıcılarımız bize güveniyor!</h2>
+                           <p>Son bir kaç ayda uygulamalarımızda yüksek potansiyeller yakalıyoruz.</p>
                         </div>
                         <div class="faq__counter wow fadeInUp" data-wow-delay=".5s">
                            <ul>
                               <li>
-                                 <h3 class="pink"><span class="counter">876</span></h3>
-                                 <p>Happy Clients</p>
+                                 <h3 class="pink"><span class="counter">543276</span></h3>
+                                 <p>Kullanıcı</p>
                               </li>
                               <li>
-                                 <h3 class="blue"><span class="counter">156</span></h3>
-                                 <p>Projects</p>
+                                 <h3 class="blue"><span class="counter">8</span></h3>
+                                 <p>Proje</p>
                               </li>
                               <li>
-                                 <h3 class="yellow"><span class="counter">430</span></h3>
-                                 <p>Trusted Users</p>
-                              </li>
+                              
                            </ul>
                         </div>
                      </div>

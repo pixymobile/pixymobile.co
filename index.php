@@ -318,7 +318,7 @@
                              <button class="nav-link yellow-bg" id="multitask-tab" data-bs-toggle="tab" data-bs-target="#multitask" type="button" role="tab" aria-controls="multitask" aria-selected="false">Net Booster</button>
                            </li>
                             <li class="nav-item" role="presentation">
-                             <button class="nav-link green-bg" id="multitask-tab" data-bs-toggle="tab" data-bs-target="#multitask" type="button" role="tab" aria-controls="multitask" aria-selected="false">Applocker</button>
+                             <button class="nav-link green-bg" id="applock-tab" data-bs-toggle="tab" data-bs-target="#applock" type="button" role="tab" aria-controls="multitask" aria-selected="false">Applocker</button>
                            </li>
                          </ul>
                      </div>
@@ -351,7 +351,17 @@
                                  <div class="features__thumb-inner">
                                     <img class="fea-thumb" src="assets/img/features/home-2/fea-thumb-3.jpg" alt="">
                                     <img class="fea-sm" src="assets/img/features/home-2/fea-sm.jpg" alt="">
-                                    <img class="fea-sm-2" src="assets/img/features/home-2/fea-sm-2.jpg" alt="">
+                                    <img class="fea-sm-2" src="assets/img/features/home-2/fea-sm-3.jpg" alt="">
+                                    <img class="fea-2-shape" src="assets/img/icon/features/home-2/features-shape.png" alt="">
+                                 </div>
+                              </div>
+                           </div>
+                             <div class="tab-pane fade" id="applock" role="tabpanel" aria-labelledby="applock-tab">
+                              <div class="features__thumb">
+                                 <div class="features__thumb-inner">
+                                    <img class="fea-thumb" src="assets/img/features/home-2/fea-thumb-4.jpg" alt="">
+                                    <img class="fea-sm" src="assets/img/features/home-2/fea-sm.jpg" alt="">
+                                    <img class="fea-sm-2" src="assets/img/features/home-2/fea-sm-4.jpg" alt="">
                                     <img class="fea-2-shape" src="assets/img/icon/features/home-2/features-shape.png" alt="">
                                  </div>
                               </div>
