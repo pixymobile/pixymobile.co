@@ -6,7 +6,7 @@
                   <div class="col-xxl-4 col-xl-2 col-lg-2 col-md-6 col-6">
                      <div class="logo">
                         <a href="index.php">
-                           <img src="assets/img/logo/logo.png" alt="logo">
+                           <img src="assets/img/logo/logo.svg" alt="logo">
                         </a>
                      </div>
                   </div>

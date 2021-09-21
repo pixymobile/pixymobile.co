@@ -65,13 +65,13 @@
             <div class="sidebar__close">
                <button class="sidebar__close-btn" id="sidebar__close-btn">
                <span><i class="fal fa-times"></i></span>
-               <span>close</span>
+               <span>kapat</span>
                </button>
             </div>
             <div class="sidebar__content">
                <div class="logo mb-40">
                   <a href="index.html">
-                  <img src="assets/img/logo/logo.png" alt="logo">
+                  <img src="assets/img/logo/logo.svg" alt="logo">
                   </a>
                </div>
                <div class="mobile-menu mobile-menu-3"></div>

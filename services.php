@@ -74,7 +74,7 @@
             <div class="sidebar__content">
                <div class="logo mb-40">
                   <a href="index.html">
-                  <img src="assets/img/logo/logo.png" alt="logo">
+                  <img src="assets/img/logo/logo.svg" alt="logo">
                   </a>
                </div>
                <div class="mobile-menu mobile-menu-2"></div>
