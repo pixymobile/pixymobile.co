@@ -3762,7 +3762,7 @@ p {
   top: -3px;
 }
 .services__inner-2::before {
-  background: #2f80ed;
+  background: #91c73e;
 }
 .services__inner-2:hover::before, .services__inner-2.active::before {
   top: -3px;
@@ -4225,13 +4225,13 @@ p {
   content: "";
   font-family: "Font Awesome 5 Pro";
   font-size: 15px;
-  color: #6c6a8a;
+  color: #91c73e;
   left: 0;
   top: 1px;
 }
 .about__wrapper ul li:hover {
   padding-left: 20px;
-  color: #7127ea;
+  color: #070337;
 }
 .about__wrapper ul li:hover::after {
   color: #7127ea;
@@ -8724,7 +8724,7 @@ p {
   content: ".";
   font-family: "Open Sans", sans-serif;
   font-size: 30px;
-  color: #ffffff;
+  color: #0f1432;
   line-height: 12px;
   padding-right: 14px;
 }
