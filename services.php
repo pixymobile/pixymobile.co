@@ -198,11 +198,11 @@
                   <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-8">
                      <div class="about__content-3 pt-55">
                         <div class="section__title-wrapper section__title-wrapper-2 mb-55 wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                           <span class="section__pre-title pink">Features</span>
-                           <h2 class="section__title section__title-2">Get the perfect solution for your web.</h2>
-                           <p>Starkers pardon you knees up is Elizabeth geeza Why, quain standard  guvnor gosh cras brilliant.</p>
+                           <span class="section__pre-title pink">Hizmetlerimiz</span>
+                           <h2 class="section__title section__title-2">Uygulamalarımızı en iyi şekilde pazarlıyoruz </h2>
+                           <p>En güncel tasarımları ve algoritmaları kullanarak uygulamalarımızı en minimal ve fonsiyonel şekilde kullanıcılarımıza sunuyoruz.</p>
                         </div>
-                        <a href="about.html" class="w-btn w-btn-blue w-btn-3 w-btn-1">Get Started</a>
+                     
                      </div>
                   </div>
                </div>
@@ -210,7 +210,7 @@
          </section>
          <!-- features area end -->
 
-         <!-- cta area start -->
+         <!-- cta area start
          <section class="cta__area blue-bg-10 pt-140 pb-130 p-relative fix z-index-1">
             <div class="cta__shape">
                <img class="cta-4-shape" src="assets/img/cta/home-4/cta-shape.png" alt="">
@@ -241,7 +241,7 @@
                </div>
             </div>
          </section>
-         <!-- cta area end -->
+          cta area end -->
       </main>
 
 

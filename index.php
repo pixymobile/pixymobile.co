@@ -528,8 +528,8 @@
                         <ul>
                            <li>5+ Yıllık Deneyim</li>
                            <li>İşinin eri çalışanlarımız</li>
-                           <li>Agile yazılım prensibi</li>
-                           <li>Kendimize özgü methodlar</li>
+                           <li>Gelişmiş yazılım prensipleri</li>
+                           <li>Minimal tasarım anlayışı</li>
                         </ul>
                         <a href="contact.html" class="w-btn w-btn-purple w-100"> Bize ulaşın</a>
                      </div>
