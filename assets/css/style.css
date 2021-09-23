@@ -893,7 +893,7 @@ p {
   color: #ffffff;
 }
 .section__pre-title.purple {
-  background: rgb(145 199 62 / 84%);
+  background: #6c63ff;
   color: #ffffff;
 }
 .section__pre-title.pink {
@@ -3747,7 +3747,7 @@ p {
   right: 0;
   top: 10px;
   border-radius: 20px;
-  background: #7127ea;
+  background: #90c63f;
   height: 50%;
   z-index: -1;
 }

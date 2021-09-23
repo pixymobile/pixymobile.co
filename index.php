@@ -109,7 +109,7 @@
                   <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                      <div class="hero__content-3 mb-100 pl-70">
                         <h3 class="hero__title wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s;"> Ninja VPN</h3>
-                        <p class="wow fadeInUp" style="color: black;" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s;">Yaratıcı ve birbirinden özel uygulamalar yazıyoruz. En iyi şekilde sizlere sunuyoruz.</p>
+                        <p class="wow fadeInUp" style="color: black;" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s;">Her uygulamamızın içinde emek var. En ince ayrıntısına kadar biz tasarlıyoruz ve geliştiriyoruz!</p>
 
                         <div class="hero__app wow fadeInUp" data-wow-delay=".7s" style="visibility: visible; animation-delay: 0.7s;">
                            <ul>
